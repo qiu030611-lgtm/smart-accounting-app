@@ -1,0 +1,77 @@
+{
+  "transactions": [
+    {
+      "id": "T20251021142338",
+      "amount": 0.01,
+      "description": "coffee yesterday",
+      "category": "Food&Drinks",
+      "date": "2025-10-20",
+      "timestamp": "2025-10-21 14:23:38"
+    },
+    {
+      "id": "T20251021142441",
+      "amount": 0.01,
+      "description": "coffee ",
+      "category": "Food&Drinks",
+      "date": "2025-10-21",
+      "timestamp": "2025-10-21 14:24:41"
+    },
+    {
+      "id": "T20251021142446",
+      "amount": 0.01,
+      "description": "coffee ",
+      "category": "Food&Drinks",
+      "date": "2025-10-21",
+      "timestamp": "2025-10-21 14:24:46"
+    },
+    {
+      "id": "T20251021142449",
+      "amount": 0.01,
+      "description": "coffee ",
+      "category": "Food&Drinks",
+      "date": "2025-10-21",
+      "timestamp": "2025-10-21 14:24:49"
+    },
+    {
+      "id": "T20251021142451",
+      "amount": 0.01,
+      "description": "coffee ",
+      "category": "Food&Drinks",
+      "date": "2025-10-21",
+      "timestamp": "2025-10-21 14:24:51"
+    },
+    {
+      "id": "T20251021142454",
+      "amount": 0.01,
+      "description": "coffee ",
+      "category": "Food&Drinks",
+      "date": "2025-10-21",
+      "timestamp": "2025-10-21 14:24:54"
+    },
+    {
+      "id": "T20251021142527",
+      "amount": 20.0,
+      "description": "lunch",
+      "category": "Food&Drinks",
+      "date": "2025-10-21",
+      "timestamp": "2025-10-21 14:25:27"
+    },
+    {
+      "id": "T20251021142529",
+      "amount": 20.0,
+      "description": "lunch",
+      "category": "Food&Drinks",
+      "date": "2025-10-21",
+      "timestamp": "2025-10-21 14:25:29"
+    },
+    {
+      "id": "T20251021142634",
+      "amount": 20.0,
+      "description": "lunch",
+      "category": "Food&Drinks",
+      "date": "2025-10-21",
+      "timestamp": "2025-10-21 14:26:34"
+    }
+  ],
+  "last_updated": "2025-10-21T14:26:34.898081+11:00"
+}
